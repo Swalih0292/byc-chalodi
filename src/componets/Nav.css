@@ -1,0 +1,44 @@
+.nav-box{
+    background-color:#fdfdfd;
+    width: 100vw;
+    height: 120px;
+    display: flex;
+    /* justify-content: center; */
+    align-items: center;
+    flex-direction: row;
+    
+    
+}
+.sub-nav1{
+width: 38%;
+height: fit-content;
+/* background-color: aliceblue; */
+}
+.sub-nav2{
+    width: 400px;
+    height: 100px;
+    color: #4d4d4d;
+    display: flex;
+    /* justify-content: center ; */
+    align-items: center;
+    padding-bottom: 10px;
+    
+   
+}
+.sub-nav-in{
+    margin-left: 350px;
+}
+.name{
+    font-size: 50px;
+    font-weight: 900;
+
+}
+.name1{
+    font-weight: 600;
+    font-size: 20px;
+}
+.logo{
+    width: 120px;
+    height: 90px;
+    margin-left: 20px;
+}
